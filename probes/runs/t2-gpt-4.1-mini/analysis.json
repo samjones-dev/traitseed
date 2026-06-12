@@ -1,0 +1,20 @@
+{
+  "tarot": {
+    "n": 60,
+    "within_draw_distance": 0.2681194492181142,
+    "across_draw_distance": 0.38376309172606765,
+    "steering_ratio": 1.4313138895562842
+  },
+  "fictional": {
+    "n": 60,
+    "within_draw_distance": 0.2711100518703461,
+    "across_draw_distance": 0.38523767991566366,
+    "steering_ratio": 1.4209642071843844
+  },
+  "traits": {
+    "n": 60,
+    "within_draw_distance": 0.2682305351893107,
+    "across_draw_distance": 0.4693228350745307,
+    "steering_ratio": 1.7496995065953018
+  }
+}

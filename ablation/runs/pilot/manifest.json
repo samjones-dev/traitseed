@@ -1,0 +1,16 @@
+{
+  "run_id": "pilot",
+  "model": "google/gemma-4-31b-it:free",
+  "master_seed": 42,
+  "n_per_condition": 3,
+  "conditions": [
+    "tarot",
+    "none",
+    "traits"
+  ],
+  "temperature": 1.2,
+  "top_p": 0.95,
+  "parse_attempts": 3,
+  "question_id": "ai_education_q1",
+  "question": "How can we best prepare for integrating AI into the education system? What traps, pitfalls, and goldmines could we run into?\n\nConsider the perspectives of students, teachers, administrators, policymakers, and technology providers. Address both near-term implementation challenges and longer-term systemic implications."
+}

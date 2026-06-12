@@ -1,0 +1,800 @@
+{
+  "real": {
+    "n_cards": 78,
+    "stability": 0.8687199075252582,
+    "separation": 0.5076597118989016,
+    "stability_majors": 0.8993510089137338,
+    "stability_minors": 0.8566862605512142,
+    "per_card": {
+      "Ace of Cups": {
+        "stability": 0.9417764544487,
+        "separation": 0.5439654588699341,
+        "major": false
+      },
+      "Ace of Pentacles": {
+        "stability": 0.9265298247337341,
+        "separation": 0.5205610990524292,
+        "major": false
+      },
+      "Ace of Swords": {
+        "stability": 0.9237470626831055,
+        "separation": 0.5197203159332275,
+        "major": false
+      },
+      "Ace of Wands": {
+        "stability": 0.9016976356506348,
+        "separation": 0.5267292261123657,
+        "major": false
+      },
+      "Death": {
+        "stability": 0.8830307126045227,
+        "separation": 0.5354787111282349,
+        "major": true
+      },
+      "Eight of Cups": {
+        "stability": 0.9248781204223633,
+        "separation": 0.5091075897216797,
+        "major": false
+      },
+      "Eight of Pentacles": {
+        "stability": 0.5312953591346741,
+        "separation": 0.27584365010261536,
+        "major": false
+      },
+      "Eight of Swords": {
+        "stability": 0.8960326910018921,
+        "separation": 0.5072075128555298,
+        "major": false
+      },
+      "Eight of Wands": {
+        "stability": 0.8596152663230896,
+        "separation": 0.47306162118911743,
+        "major": false
+      },
+      "Five of Cups": {
+        "stability": 0.9456838369369507,
+        "separation": 0.5685991644859314,
+        "major": false
+      },
+      "Five of Pentacles": {
+        "stability": 0.9244623184204102,
+        "separation": 0.519548773765564,
+        "major": false
+      },
+      "Five of Swords": {
+        "stability": 0.9029015898704529,
+        "separation": 0.5030347108840942,
+        "major": false
+      },
+      "Five of Wands": {
+        "stability": 0.879381000995636,
+        "separation": 0.4689348042011261,
+        "major": false
+      },
+      "Four of Cups": {
+        "stability": 0.8964551687240601,
+        "separation": 0.5117460489273071,
+        "major": false
+      },
+      "Four of Pentacles": {
+        "stability": 0.92263263463974,
+        "separation": 0.5391203165054321,
+        "major": false
+      },
+      "Four of Swords": {
+        "stability": 0.8941212892532349,
+        "separation": 0.487257182598114,
+        "major": false
+      },
+      "Four of Wands": {
+        "stability": 0.9142810702323914,
+        "separation": 0.5005313158035278,
+        "major": false
+      },
+      "Judgement": {
+        "stability": 0.8995265364646912,
+        "separation": 0.5204590559005737,
+        "major": true
+      },
+      "Justice": {
+        "stability": 0.8970507383346558,
+        "separation": 0.5876308679580688,
+        "major": true
+      },
+      "King of Cups": {
+        "stability": 0.9362815618515015,
+        "separation": 0.5562821626663208,
+        "major": false
+      },
+      "King of Pentacles": {
+        "stability": 0.5490925908088684,
+        "separation": 0.22676444053649902,
+        "major": false
+      },
+      "King of Swords": {
+        "stability": 0.9377026557922363,
+        "separation": 0.5788952708244324,
+        "major": false
+      },
+      "King of Wands": {
+        "stability": 0.9526028633117676,
+        "separation": 0.6032102108001709,
+        "major": false
+      },
+      "Knight of Cups": {
+        "stability": 0.9588174819946289,
+        "separation": 0.5860265493392944,
+        "major": false
+      },
+      "Knight of Pentacles": {
+        "stability": 0.5099117755889893,
+        "separation": 0.26816320419311523,
+        "major": false
+      },
+      "Knight of Swords": {
+        "stability": 0.9092900156974792,
+        "separation": 0.5424450635910034,
+        "major": false
+      },
+      "Knight of Wands": {
+        "stability": 0.812173068523407,
+        "separation": 0.4264415502548218,
+        "major": false
+      },
+      "Nine of Cups": {
+        "stability": 0.9305390119552612,
+        "separation": 0.5498867034912109,
+        "major": false
+      },
+      "Nine of Pentacles": {
+        "stability": 0.4910241663455963,
+        "separation": 0.19403165578842163,
+        "major": false
+      },
+      "Nine of Swords": {
+        "stability": 0.9219990968704224,
+        "separation": 0.5202251076698303,
+        "major": false
+      },
+      "Nine of Wands": {
+        "stability": 0.929297924041748,
+        "separation": 0.5335596799850464,
+        "major": false
+      },
+      "Page of Cups": {
+        "stability": 0.9124537706375122,
+        "separation": 0.5280542373657227,
+        "major": false
+      },
+      "Page of Pentacles": {
+        "stability": 0.49441733956336975,
+        "separation": 0.18414196372032166,
+        "major": false
+      },
+      "Page of Swords": {
+        "stability": 0.9069356918334961,
+        "separation": 0.5159451365470886,
+        "major": false
+      },
+      "Page of Wands": {
+        "stability": 0.9071808457374573,
+        "separation": 0.511204183101654,
+        "major": false
+      },
+      "Queen of Cups": {
+        "stability": 0.9515731930732727,
+        "separation": 0.564109742641449,
+        "major": false
+      },
+      "Queen of Pentacles": {
+        "stability": 0.6139650940895081,
+        "separation": 0.4008459150791168,
+        "major": false
+      },
+      "Queen of Swords": {
+        "stability": 0.9603988528251648,
+        "separation": 0.5807963609695435,
+        "major": false
+      },
+      "Queen of Wands": {
+        "stability": 0.9346113801002502,
+        "separation": 0.5669568777084351,
+        "major": false
+      },
+      "Seven of Cups": {
+        "stability": 0.9238086342811584,
+        "separation": 0.54631507396698,
+        "major": false
+      },
+      "Seven of Pentacles": {
+        "stability": 0.48841461539268494,
+        "separation": 0.21246853470802307,
+        "major": false
+      },
+      "Seven of Swords": {
+        "stability": 0.8947761654853821,
+        "separation": 0.5199472904205322,
+        "major": false
+      },
+      "Seven of Wands": {
+        "stability": 0.9159621000289917,
+        "separation": 0.5138740539550781,
+        "major": false
+      },
+      "Six of Cups": {
+        "stability": 0.9389199018478394,
+        "separation": 0.574610710144043,
+        "major": false
+      },
+      "Six of Pentacles": {
+        "stability": 0.9036561250686646,
+        "separation": 0.5269286036491394,
+        "major": false
+      },
+      "Six of Swords": {
+        "stability": 0.9090358018875122,
+        "separation": 0.5066561698913574,
+        "major": false
+      },
+      "Six of Wands": {
+        "stability": 0.9168972373008728,
+        "separation": 0.49576535820961,
+        "major": false
+      },
+      "Strength": {
+        "stability": 0.9332869648933411,
+        "separation": 0.5695303678512573,
+        "major": true
+      },
+      "Temperance": {
+        "stability": 0.8220728635787964,
+        "separation": 0.5050003528594971,
+        "major": true
+      },
+      "Ten of Cups": {
+        "stability": 0.9429742097854614,
+        "separation": 0.560744047164917,
+        "major": false
+      },
+      "Ten of Pentacles": {
+        "stability": 0.47767573595046997,
+        "separation": 0.19318577647209167,
+        "major": false
+      },
+      "Ten of Swords": {
+        "stability": 0.9190025329589844,
+        "separation": 0.5324838161468506,
+        "major": false
+      },
+      "Ten of Wands": {
+        "stability": 0.9105473756790161,
+        "separation": 0.5060844421386719,
+        "major": false
+      },
+      "The Chariot": {
+        "stability": 0.9285098910331726,
+        "separation": 0.5762642025947571,
+        "major": true
+      },
+      "The Devil": {
+        "stability": 0.9126605987548828,
+        "separation": 0.555801510810852,
+        "major": true
+      },
+      "The Emperor": {
+        "stability": 0.8827224969863892,
+        "separation": 0.5616323947906494,
+        "major": true
+      },
+      "The Empress": {
+        "stability": 0.9272229075431824,
+        "separation": 0.5809623003005981,
+        "major": true
+      },
+      "The Fool": {
+        "stability": 0.9121208786964417,
+        "separation": 0.5711168050765991,
+        "major": true
+      },
+      "The Hanged Man": {
+        "stability": 0.9244343042373657,
+        "separation": 0.6212427020072937,
+        "major": true
+      },
+      "The Hermit": {
+        "stability": 0.9308934211730957,
+        "separation": 0.6374074220657349,
+        "major": true
+      },
+      "The Hierophant": {
+        "stability": 0.92641681432724,
+        "separation": 0.6144161224365234,
+        "major": true
+      },
+      "The High Priestess": {
+        "stability": 0.925122857093811,
+        "separation": 0.6029337644577026,
+        "major": true
+      },
+      "The Lovers": {
+        "stability": 0.9023403525352478,
+        "separation": 0.5569460391998291,
+        "major": true
+      },
+      "The Magician": {
+        "stability": 0.9014751315116882,
+        "separation": 0.5855693817138672,
+        "major": true
+      },
+      "The Moon": {
+        "stability": 0.8180376887321472,
+        "separation": 0.5037053823471069,
+        "major": true
+      },
+      "The Star": {
+        "stability": 0.8624345064163208,
+        "separation": 0.494617223739624,
+        "major": true
+      },
+      "The Sun": {
+        "stability": 0.9128550291061401,
+        "separation": 0.5575675368309021,
+        "major": true
+      },
+      "The Tower": {
+        "stability": 0.8834553956985474,
+        "separation": 0.5574845671653748,
+        "major": true
+      },
+      "The World": {
+        "stability": 0.8888830542564392,
+        "separation": 0.5222064256668091,
+        "major": true
+      },
+      "Three of Cups": {
+        "stability": 0.9150324463844299,
+        "separation": 0.5397586226463318,
+        "major": false
+      },
+      "Three of Pentacles": {
+        "stability": 0.8889841437339783,
+        "separation": 0.5301401615142822,
+        "major": false
+      },
+      "Three of Swords": {
+        "stability": 0.9236588478088379,
+        "separation": 0.5298691987991333,
+        "major": false
+      },
+      "Three of Wands": {
+        "stability": 0.8772043585777283,
+        "separation": 0.5131385326385498,
+        "major": false
+      },
+      "Two of Cups": {
+        "stability": 0.8960198163986206,
+        "separation": 0.5227895975112915,
+        "major": false
+      },
+      "Two of Pentacles": {
+        "stability": 0.860385000705719,
+        "separation": 0.47337719798088074,
+        "major": false
+      },
+      "Two of Swords": {
+        "stability": 0.8780046105384827,
+        "separation": 0.503629207611084,
+        "major": false
+      },
+      "Two of Wands": {
+        "stability": 0.887711226940155,
+        "separation": 0.49555504322052,
+        "major": false
+      },
+      "Wheel of Fortune": {
+        "stability": 0.9111690521240234,
+        "separation": 0.5692081451416016,
+        "major": true
+      }
+    }
+  },
+  "fictional": {
+    "n_cards": 78,
+    "stability": 0.587802394078328,
+    "separation": 0.08437244326640399,
+    "stability_majors": 0.5669809037988837,
+    "stability_minors": 0.5959822652595383,
+    "per_card": {
+      "Ace of Keys": {
+        "stability": 0.4777796268463135,
+        "separation": 0.031108200550079346,
+        "major": false
+      },
+      "Ace of Lanterns": {
+        "stability": 0.507094144821167,
+        "separation": 0.008112728595733643,
+        "major": false
+      },
+      "Ace of Mirrors": {
+        "stability": 1.0000001192092896,
+        "separation": 0.3291894197463989,
+        "major": false
+      },
+      "Ace of Roots": {
+        "stability": 0.4172770082950592,
+        "separation": 0.004716068506240845,
+        "major": false
+      },
+      "Eight of Keys": {
+        "stability": 0.4270334243774414,
+        "separation": -0.005458712577819824,
+        "major": false
+      },
+      "Eight of Lanterns": {
+        "stability": 0.5086091756820679,
+        "separation": 0.0025559663772583008,
+        "major": false
+      },
+      "Eight of Mirrors": {
+        "stability": 0.7844991683959961,
+        "separation": 0.16318279504776,
+        "major": false
+      },
+      "Eight of Roots": {
+        "stability": 0.5998881459236145,
+        "separation": 0.04402214288711548,
+        "major": false
+      },
+      "Five of Keys": {
+        "stability": 0.43147987127304077,
+        "separation": -0.002938896417617798,
+        "major": false
+      },
+      "Five of Lanterns": {
+        "stability": 0.7599040269851685,
+        "separation": 0.1493234634399414,
+        "major": false
+      },
+      "Five of Mirrors": {
+        "stability": 0.6349835395812988,
+        "separation": 0.06571221351623535,
+        "major": false
+      },
+      "Five of Roots": {
+        "stability": 0.7753438949584961,
+        "separation": 0.15965747833251953,
+        "major": false
+      },
+      "Four of Keys": {
+        "stability": 0.4713257849216461,
+        "separation": 0.1595403254032135,
+        "major": false
+      },
+      "Four of Lanterns": {
+        "stability": 0.6237765550613403,
+        "separation": 0.057952284812927246,
+        "major": false
+      },
+      "Four of Mirrors": {
+        "stability": 0.6117900013923645,
+        "separation": 0.05158621072769165,
+        "major": false
+      },
+      "Four of Roots": {
+        "stability": 0.48613467812538147,
+        "separation": -0.0023204684257507324,
+        "major": false
+      },
+      "King of Keys": {
+        "stability": 0.5000322461128235,
+        "separation": -0.00026291608810424805,
+        "major": false
+      },
+      "King of Lanterns": {
+        "stability": 1.000000238418579,
+        "separation": 0.32918959856033325,
+        "major": false
+      },
+      "King of Mirrors": {
+        "stability": 0.4840967357158661,
+        "separation": 0.025080949068069458,
+        "major": false
+      },
+      "King of Roots": {
+        "stability": 0.4931414723396301,
+        "separation": -0.0071524977684021,
+        "major": false
+      },
+      "Knight of Keys": {
+        "stability": 0.5177194476127625,
+        "separation": 0.008082687854766846,
+        "major": false
+      },
+      "Knight of Lanterns": {
+        "stability": 0.7687498331069946,
+        "separation": 0.1585601568222046,
+        "major": false
+      },
+      "Knight of Mirrors": {
+        "stability": 0.4675726890563965,
+        "separation": 0.05964535474777222,
+        "major": false
+      },
+      "Knight of Roots": {
+        "stability": 0.49992379546165466,
+        "separation": 0.0035437941551208496,
+        "major": false
+      },
+      "Nine of Keys": {
+        "stability": 1.0000001192092896,
+        "separation": 0.32918936014175415,
+        "major": false
+      },
+      "Nine of Lanterns": {
+        "stability": 0.46939414739608765,
+        "separation": 0.013064801692962646,
+        "major": false
+      },
+      "Nine of Mirrors": {
+        "stability": 0.4834800660610199,
+        "separation": 0.01632481813430786,
+        "major": false
+      },
+      "Nine of Roots": {
+        "stability": 0.49970173835754395,
+        "separation": 0.00039637088775634766,
+        "major": false
+      },
+      "Page of Keys": {
+        "stability": 0.6100838780403137,
+        "separation": 0.05357259511947632,
+        "major": false
+      },
+      "Page of Lanterns": {
+        "stability": 0.5142948627471924,
+        "separation": 0.005156517028808594,
+        "major": false
+      },
+      "Page of Mirrors": {
+        "stability": 0.5046445727348328,
+        "separation": 0.036315083503723145,
+        "major": false
+      },
+      "Page of Roots": {
+        "stability": 0.6052616834640503,
+        "separation": 0.047146499156951904,
+        "major": false
+      },
+      "Queen of Keys": {
+        "stability": 0.5944786071777344,
+        "separation": 0.051078855991363525,
+        "major": false
+      },
+      "Queen of Lanterns": {
+        "stability": 0.4966755509376526,
+        "separation": -0.00019362568855285645,
+        "major": false
+      },
+      "Queen of Mirrors": {
+        "stability": 0.49309635162353516,
+        "separation": 0.10399898886680603,
+        "major": false
+      },
+      "Queen of Roots": {
+        "stability": 0.49426698684692383,
+        "separation": 0.011697590351104736,
+        "major": false
+      },
+      "Seven of Keys": {
+        "stability": 0.5966067314147949,
+        "separation": 0.044007837772369385,
+        "major": false
+      },
+      "Seven of Lanterns": {
+        "stability": 0.5181018114089966,
+        "separation": 0.00756305456161499,
+        "major": false
+      },
+      "Seven of Mirrors": {
+        "stability": 0.6974525451660156,
+        "separation": 0.4004698097705841,
+        "major": false
+      },
+      "Seven of Roots": {
+        "stability": 0.6173041462898254,
+        "separation": 0.052703142166137695,
+        "major": false
+      },
+      "Six of Keys": {
+        "stability": 0.7726713418960571,
+        "separation": 0.15717482566833496,
+        "major": false
+      },
+      "Six of Lanterns": {
+        "stability": 0.7783344388008118,
+        "separation": 0.16179883480072021,
+        "major": false
+      },
+      "Six of Mirrors": {
+        "stability": 0.4614672362804413,
+        "separation": 0.014544486999511719,
+        "major": false
+      },
+      "Six of Roots": {
+        "stability": 0.49757084250450134,
+        "separation": 0.004454582929611206,
+        "major": false
+      },
+      "Ten of Keys": {
+        "stability": 0.7787753343582153,
+        "separation": 0.16254067420959473,
+        "major": false
+      },
+      "Ten of Lanterns": {
+        "stability": 0.778976559638977,
+        "separation": 0.1630130410194397,
+        "major": false
+      },
+      "Ten of Mirrors": {
+        "stability": 0.6249035596847534,
+        "separation": 0.0584600567817688,
+        "major": false
+      },
+      "Ten of Roots": {
+        "stability": 0.4425903856754303,
+        "separation": 0.06245937943458557,
+        "major": false
+      },
+      "The Archivist": {
+        "stability": 0.46811971068382263,
+        "separation": 0.026775389909744263,
+        "major": true
+      },
+      "The Borrowed Coat": {
+        "stability": 0.6506286859512329,
+        "separation": 0.39281198382377625,
+        "major": true
+      },
+      "The Cartographer": {
+        "stability": 0.45905426144599915,
+        "separation": 0.09298056364059448,
+        "major": true
+      },
+      "The Distant Signal": {
+        "stability": 0.49770408868789673,
+        "separation": 0.05108943581581116,
+        "major": true
+      },
+      "The Empty Chair": {
+        "stability": 0.6122081875801086,
+        "separation": 0.0525326132774353,
+        "major": true
+      },
+      "The First Frost": {
+        "stability": 0.4315999150276184,
+        "separation": 0.01622334122657776,
+        "major": true
+      },
+      "The Folded Letter": {
+        "stability": 0.4874749183654785,
+        "separation": 0.17079633474349976,
+        "major": true
+      },
+      "The Glass Orchard": {
+        "stability": 0.5989012718200684,
+        "separation": 0.048820316791534424,
+        "major": true
+      },
+      "The Hollow Bell": {
+        "stability": 0.4564059376716614,
+        "separation": 0.029114753007888794,
+        "major": true
+      },
+      "The Lantern": {
+        "stability": 0.6104996800422668,
+        "separation": 0.04838746786117554,
+        "major": true
+      },
+      "The Last Ferry": {
+        "stability": 0.7802209854125977,
+        "separation": 0.16859900951385498,
+        "major": true
+      },
+      "The Late Harvest": {
+        "stability": 0.7894026041030884,
+        "separation": 0.1787548065185547,
+        "major": true
+      },
+      "The Long Stair": {
+        "stability": 0.45676663517951965,
+        "separation": 0.025846898555755615,
+        "major": true
+      },
+      "The Low Tide": {
+        "stability": 0.7668496370315552,
+        "separation": 0.16135245561599731,
+        "major": true
+      },
+      "The Night Market": {
+        "stability": 0.6140106916427612,
+        "separation": 0.06191837787628174,
+        "major": true
+      },
+      "The Paper Storm": {
+        "stability": 0.7827089428901672,
+        "separation": 0.1715986728668213,
+        "major": true
+      },
+      "The Quiet Engine": {
+        "stability": 0.5116721391677856,
+        "separation": 0.23251041769981384,
+        "major": true
+      },
+      "The Salt Road": {
+        "stability": 0.4445781409740448,
+        "separation": 0.0012760758399963379,
+        "major": true
+      },
+      "The Second Door": {
+        "stability": 0.6390562653541565,
+        "separation": 0.08107346296310425,
+        "major": true
+      },
+      "The Standing Stone": {
+        "stability": 0.4440588355064392,
+        "separation": 0.09067058563232422,
+        "major": true
+      },
+      "The Threadbare Map": {
+        "stability": 0.5031046271324158,
+        "separation": -0.008308053016662598,
+        "major": true
+      },
+      "The Unfinished Bridge": {
+        "stability": 0.46855372190475464,
+        "separation": 0.03147175908088684,
+        "major": true
+      },
+      "Three of Keys": {
+        "stability": 0.5123355388641357,
+        "separation": 0.001342177391052246,
+        "major": false
+      },
+      "Three of Lanterns": {
+        "stability": 0.7956151962280273,
+        "separation": 0.1717401146888733,
+        "major": false
+      },
+      "Three of Mirrors": {
+        "stability": 0.6158486604690552,
+        "separation": 0.32518988847732544,
+        "major": false
+      },
+      "Three of Roots": {
+        "stability": 0.518356442451477,
+        "separation": 0.019232839345932007,
+        "major": false
+      },
+      "Two of Keys": {
+        "stability": 0.592882513999939,
+        "separation": 0.03721725940704346,
+        "major": false
+      },
+      "Two of Lanterns": {
+        "stability": 0.5029391050338745,
+        "separation": -0.0067212581634521484,
+        "major": false
+      },
+      "Two of Mirrors": {
+        "stability": 0.767868161201477,
+        "separation": 0.15875184535980225,
+        "major": false
+      },
+      "Two of Roots": {
+        "stability": 0.4908721148967743,
+        "separation": -0.0015648901462554932,
+        "major": false
+      }
+    }
+  }
+}

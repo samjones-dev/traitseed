@@ -1,0 +1,169 @@
+{
+  "probe": "t2_steering",
+  "model": "google/gemini-3.5-flash",
+  "temperature": 1.2,
+  "top_p": 0.95,
+  "master_seed": 42,
+  "draws_per_condition": 10,
+  "reps_per_draw": 6,
+  "prompt": "Create a character study of one fictional person \u2014 150-250 words of flowing prose describing their worldview, what they care about most, and their blind spot.\n\nUse these three {kind} to shape them:\n\n1. Worldview/disposition: {s1}\n2. Primary concern/focus: {s2}\n3. Blind spot/shadow: {s3}\n\nWrite the character study directly, without preamble.",
+  "draws": {
+    "tarot": [
+      [
+        "Two of Wands",
+        "Six of Pentacles (reversed)",
+        "Three of Swords (reversed)"
+      ],
+      [
+        "Knight of Swords",
+        "Nine of Swords",
+        "Nine of Cups (reversed)"
+      ],
+      [
+        "The Tower",
+        "Page of Cups",
+        "Six of Wands"
+      ],
+      [
+        "Five of Wands",
+        "Queen of Cups",
+        "Seven of Pentacles"
+      ],
+      [
+        "Six of Cups",
+        "Knight of Swords (reversed)",
+        "The Empress"
+      ],
+      [
+        "The Sun (reversed)",
+        "Ace of Wands (reversed)",
+        "Nine of Cups"
+      ],
+      [
+        "Two of Swords",
+        "Four of Cups",
+        "Queen of Cups (reversed)"
+      ],
+      [
+        "Knight of Cups (reversed)",
+        "The High Priestess (reversed)",
+        "Queen of Wands"
+      ],
+      [
+        "Four of Pentacles (reversed)",
+        "The Magician",
+        "Queen of Pentacles"
+      ],
+      [
+        "Two of Swords",
+        "The Hanged Man",
+        "The Hierophant"
+      ]
+    ],
+    "fictional": [
+      [
+        "The Late Harvest",
+        "The Standing Stone",
+        "The Lantern"
+      ],
+      [
+        "The Folded Letter",
+        "Three of Keys",
+        "Two of Lanterns"
+      ],
+      [
+        "Five of Roots",
+        "The Low Tide",
+        "The Standing Stone (reversed)"
+      ],
+      [
+        "The Lantern",
+        "Ten of Mirrors",
+        "Four of Keys"
+      ],
+      [
+        "King of Keys (reversed)",
+        "Three of Lanterns (reversed)",
+        "King of Roots"
+      ],
+      [
+        "The Glass Orchard (reversed)",
+        "The Paper Storm",
+        "Knight of Lanterns"
+      ],
+      [
+        "Six of Lanterns",
+        "Nine of Keys (reversed)",
+        "Page of Keys (reversed)"
+      ],
+      [
+        "Three of Lanterns",
+        "The Quiet Engine",
+        "Queen of Roots"
+      ],
+      [
+        "The Long Stair (reversed)",
+        "Four of Keys (reversed)",
+        "Six of Lanterns"
+      ],
+      [
+        "Nine of Keys",
+        "Ace of Lanterns",
+        "King of Keys"
+      ]
+    ],
+    "traits": [
+      [
+        "action-oriented",
+        "risk communication (to the point of obsession)",
+        "mistaking jargon for rigour (severe)"
+      ],
+      [
+        "intuitive",
+        "evidence standards",
+        "treating culture as an afterthought (severe)"
+      ],
+      [
+        "risk-averse",
+        "equity of access (to the point of obsession)",
+        "dismissing stakeholder buy-in"
+      ],
+      [
+        "rule-questioning (taken to excess)",
+        "procurement practices",
+        "assuming bad faith in institutions"
+      ],
+      [
+        "self-assured (taken to excess)",
+        "vendor lock-in",
+        "seeing power dynamics everywhere"
+      ],
+      [
+        "gregarious",
+        "scaling what works",
+        "averaging away important outliers"
+      ],
+      [
+        "big-picture",
+        "long-term sustainability (to the point of obsession)",
+        "dismissal of frontline experience"
+      ],
+      [
+        "short-termist",
+        "local capacity building",
+        "seeing power dynamics everywhere"
+      ],
+      [
+        "historically minded (taken to excess)",
+        "integrity of assessment (to the point of obsession)",
+        "underweighting transition costs"
+      ],
+      [
+        "communitarian (taken to excess)",
+        "public-private boundaries",
+        "neglecting the long term (severe)"
+      ]
+    ]
+  },
+  "calls": 180
+}

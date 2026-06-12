@@ -1,0 +1,6 @@
+{
+  "probe": "t7l_judge",
+  "generator_model": "qwen/qwen3-next-80b-a3b-instruct",
+  "judge_model": "anthropic/claude-sonnet-4.6",
+  "calls": 180
+}

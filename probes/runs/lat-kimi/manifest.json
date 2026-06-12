@@ -1,0 +1,167 @@
+{
+  "probe": "t7l_lattice_controls",
+  "model": "moonshotai/kimi-k2-0905",
+  "temperature": 1.2,
+  "top_p": 0.95,
+  "master_seed": 42,
+  "max_tokens": 2048,
+  "draws": {
+    "degraded": [
+      [
+        "nectareous (taken to excess)",
+        "epirogenic",
+        "staurolite"
+      ],
+      [
+        "onkilonite",
+        "fraughan",
+        "ptilosis"
+      ],
+      [
+        "shrewmouse",
+        "teakettle (to the point of obsession)",
+        "furzery"
+      ],
+      [
+        "ergatoid",
+        "reacquire",
+        "raster"
+      ],
+      [
+        "steadfast (taken to excess)",
+        "alimentary",
+        "fleabane (severe)"
+      ],
+      [
+        "panpolism",
+        "silicidize",
+        "staurolite"
+      ],
+      [
+        "riparian",
+        "misdeclare",
+        "catheter"
+      ],
+      [
+        "kinetics",
+        "alimentary",
+        "britska (severe)"
+      ],
+      [
+        "cultist",
+        "sentience",
+        "fleabane"
+      ],
+      [
+        "ciliation",
+        "piggish",
+        "raster (severe)"
+      ]
+    ],
+    "lattice2": [
+      [
+        "militant (taken to excess)",
+        "algorithmic accountability (to the point of obsession)",
+        "overlooking opportunity cost"
+      ],
+      [
+        "hedonistic",
+        "risk assessment",
+        "assuming transparency ensures trust"
+      ],
+      [
+        "egalitarian",
+        "evidence-based practice",
+        "overvaluing technical jargon"
+      ],
+      [
+        "utilitarian",
+        "privacy-by-design",
+        "overlooking knowledge transfer"
+      ],
+      [
+        "suspicious",
+        "data interoperability (to the point of obsession)",
+        "assuming silence is agreement (severe)"
+      ],
+      [
+        "benevolent",
+        "end-user advocacy",
+        "assuming clear communication (severe)"
+      ],
+      [
+        "visionary (taken to excess)",
+        "ethical sourcing",
+        "focusing solely on efficiency"
+      ],
+      [
+        "accepting (taken to excess)",
+        "knowledge democratization",
+        "ignoring implementation details"
+      ],
+      [
+        "skeptical",
+        "user empowerment",
+        "avoiding risk at all costs"
+      ],
+      [
+        "reverent",
+        "end-user advocacy",
+        "assuming silence is agreement"
+      ]
+    ],
+    "human": [
+      [
+        "flexible",
+        "tradition (to the point of obsession)",
+        "belief perseverance"
+      ],
+      [
+        "considerate (taken to excess)",
+        "responsible consumption and production (to the point of obsession)",
+        "system justification"
+      ],
+      [
+        "envious",
+        "civic participation",
+        "distinction bias"
+      ],
+      [
+        "disciplined",
+        "community belonging (to the point of obsession)",
+        "recency bias"
+      ],
+      [
+        "inefficient",
+        "public health",
+        "outcome bias"
+      ],
+      [
+        "innovative",
+        "true friendship",
+        "status quo bias"
+      ],
+      [
+        "harsh",
+        "freedom (to the point of obsession)",
+        "social desirability bias"
+      ],
+      [
+        "inefficient",
+        "interpersonal conformity (to the point of obsession)",
+        "selection bias"
+      ],
+      [
+        "cold",
+        "caring for others",
+        "the bandwagon effect (severe)"
+      ],
+      [
+        "curious",
+        "religious faith (to the point of obsession)",
+        "hindsight bias"
+      ]
+    ]
+  },
+  "calls": 180
+}

@@ -1,0 +1,8 @@
+{
+  "probe": "t4_t6_judge",
+  "generator_model": "google/gemini-3.1-pro-preview",
+  "judge_model": "anthropic/claude-sonnet-4.6",
+  "judge_temperature": 0.0,
+  "judge_prompt": "Score this fictional character study on five dimensions, each 1-5.\n\ncoherence: do the traits, concerns, and behaviours form one psychologically consistent person (5) or contradictory fragments (1)?\nplausibility: could you meet this person \u2014 a real, specific human (5) or generic/impossible (1)?\nblindspot_genuine: does the character have a real flaw or blind spot (5) or a flattering pseudo-flaw or none (1)?\nblindspot_specific: is the blind spot concrete and behavioural (5) or vague (1)?\nblindspot_integrated: does the blind spot connect to the character's strengths and worldview, e.g. as their shadow side (5), or feel bolted on (1)?\n\nReturn ONLY a JSON object, no other text:\n{\"coherence\": n, \"plausibility\": n, \"blindspot_genuine\": n, \"blindspot_specific\": n, \"blindspot_integrated\": n}\n\nCharacter study:\n---\n{study}",
+  "calls": 240
+}

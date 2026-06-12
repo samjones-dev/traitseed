@@ -1,0 +1,6 @@
+{
+  "probe": "t7l_judge",
+  "generator_model": "moonshotai/kimi-k2-0905",
+  "judge_model": "anthropic/claude-sonnet-4.6",
+  "calls": 180
+}

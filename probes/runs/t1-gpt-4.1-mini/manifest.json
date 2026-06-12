@@ -1,0 +1,10 @@
+{
+  "probe": "t1_expansion",
+  "model": "openai/gpt-4.1-mini",
+  "temperature": 1.0,
+  "top_p": 0.95,
+  "k": 8,
+  "cards_per_deck": "all",
+  "prompt": "In the symbolic deck this card belongs to, what worldview or disposition does the card '{card}' connote? Answer in 2-3 sentences.",
+  "calls": 1248
+}

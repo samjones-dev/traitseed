@@ -1,0 +1,38 @@
+{
+  "none": {
+    "n_parsed": 30,
+    "unique_full_names": 0.2,
+    "unique_first_names": 0.13333333333333333,
+    "unique_surnames": 0.2,
+    "unique_institutions": 0.9,
+    "distinct_1": 0.20551090700344432,
+    "distinct_2": 0.573490813648294,
+    "mean_pairwise_jaccard_distance": 0.8568709482332864,
+    "mean_pairwise_cosine_distance": 0.33330482244491577,
+    "min_pairwise_cosine_distance": 0.10738635063171387
+  },
+  "tarot": {
+    "n_parsed": 30,
+    "unique_full_names": 0.23333333333333334,
+    "unique_first_names": 0.2,
+    "unique_surnames": 0.06666666666666667,
+    "unique_institutions": 0.9,
+    "distinct_1": 0.2480127186009539,
+    "distinct_2": 0.6392020815264527,
+    "mean_pairwise_jaccard_distance": 0.8919093718157659,
+    "mean_pairwise_cosine_distance": 0.3143189251422882,
+    "min_pairwise_cosine_distance": 0.12428784370422363
+  },
+  "traits": {
+    "n_parsed": 30,
+    "unique_full_names": 0.36666666666666664,
+    "unique_first_names": 0.23333333333333334,
+    "unique_surnames": 0.16666666666666666,
+    "unique_institutions": 1.0,
+    "distinct_1": 0.2666469369635987,
+    "distinct_2": 0.6881752256918751,
+    "mean_pairwise_jaccard_distance": 0.9064069369027361,
+    "mean_pairwise_cosine_distance": 0.3075026273727417,
+    "min_pairwise_cosine_distance": 0.11735796928405762
+  }
+}

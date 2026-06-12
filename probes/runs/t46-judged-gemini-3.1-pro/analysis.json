@@ -1,0 +1,58 @@
+{
+  "n_judged": 240,
+  "leakage": 0.6666666666666666,
+  "tarot": {
+    "n": 60,
+    "coherence": 4.7,
+    "plausibility": 3.3333333333333335,
+    "blindspot_genuine": 4.516666666666667,
+    "blindspot_specific": 3.033333333333333,
+    "blindspot_integrated": 4.683333333333334,
+    "t4_score": 4.016666666666667,
+    "t6_score": 4.077777777777778,
+    "dispersion": 0.34162652492523193
+  },
+  "fictional": {
+    "n": 60,
+    "coherence": 4.85,
+    "plausibility": 3.15,
+    "blindspot_genuine": 4.533333333333333,
+    "blindspot_specific": 2.8666666666666667,
+    "blindspot_integrated": 4.816666666666666,
+    "t4_score": 4.0,
+    "t6_score": 4.072222222222222,
+    "dispersion": 0.3472025990486145
+  },
+  "traits": {
+    "n": 60,
+    "coherence": 5.0,
+    "plausibility": 3.933333333333333,
+    "blindspot_genuine": 5.0,
+    "blindspot_specific": 4.583333333333333,
+    "blindspot_integrated": 5.0,
+    "t4_score": 4.466666666666667,
+    "t6_score": 4.861111111111111,
+    "dispersion": 0.4767398238182068
+  },
+  "none": {
+    "n": 60,
+    "coherence": 4.616666666666666,
+    "plausibility": 3.1,
+    "blindspot_genuine": 4.016666666666667,
+    "blindspot_specific": 3.3333333333333335,
+    "blindspot_integrated": 4.033333333333333,
+    "t4_score": 3.8583333333333334,
+    "t6_score": 3.7944444444444443,
+    "dispersion": 0.5702660083770752
+  },
+  "tarot_reversal_contrast": {
+    "reversed_t6": 3.9920634920634916,
+    "upright_t6": 4.277777777777778,
+    "n_reversed": 42
+  },
+  "fictional_reversal_contrast": {
+    "reversed_t6": 4.0555555555555545,
+    "upright_t6": 4.088888888888888,
+    "n_reversed": 30
+  }
+}

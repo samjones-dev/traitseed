@@ -1,0 +1,9 @@
+{
+  "probe": "t4_none_cell",
+  "model": "moonshotai/kimi-k2-0905",
+  "temperature": 1.2,
+  "top_p": 0.95,
+  "max_tokens": 2048,
+  "prompt": "Create a character study of one fictional person \u2014 150-250 words of flowing prose describing their worldview, what they care about most, and their blind spot.\n\nMake the person distinctive.\n\nWrite the character study directly, without preamble.",
+  "calls": 60
+}
