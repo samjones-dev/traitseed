@@ -30,3 +30,8 @@ build-backend = "hatchling.build"
 
 [tool.hatch.build.targets.wheel]
 packages = ["src/traitseed"]
+
+# probes/ and ablation/ are research artifacts (~5MB); the package
+# itself is src/ + tests/. Keep the sdist to what a build needs.
+[tool.hatch.build.targets.sdist]
+exclude = ["probes", "ablation", "uv.lock"]
