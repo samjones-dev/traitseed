@@ -1,6 +1,6 @@
 # Traitseed
 
-[![test](https://github.com/sam-at-axiotic/traitseed/actions/workflows/test.yml/badge.svg)](https://github.com/sam-at-axiotic/traitseed/actions/workflows/test.yml)
+[![test](https://github.com/samjones-dev/traitseed/actions/workflows/test.yml/badge.svg)](https://github.com/samjones-dev/traitseed/actions/workflows/test.yml)
 
 Reproducible diversity for LLM data generation. Seed every generation
 with a draw from a curated trait lattice and get varied, coherent,
@@ -53,7 +53,7 @@ name list or post-generation dedup if you need unique names.
 pip install traitseed
 ```
 
-Or from source: `pip install git+https://github.com/sam-at-axiotic/traitseed`.
+Or from source: `pip install git+https://github.com/samjones-dev/traitseed`.
 
 ## Bundled lattices
 
